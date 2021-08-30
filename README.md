@@ -1,5 +1,5 @@
 # Game of Life on an attiny85
-Classic Conway's **Game of Life** cellular automata running on an **attiny85** with an **SSD1306-based OLED 128x64 mini-display**.
+Classic **Conway's Game of Life** cellular automata running on an **attiny85** with an **SSD1306-based OLED 128x64 mini-display**.
 
 ![Game of Life 1](http://albertgonzalez.coffee/projects/gameoflife_attiny85/final_1_small.jpg?) ![Game of Life 2](http://albertgonzalez.coffee/projects/gameoflife_attiny85/final_2_small.jpg) 
 
